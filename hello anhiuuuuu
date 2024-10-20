@@ -1,0 +1,19 @@
+<!-- helloo anhbeee iuuuu -->
+<title>Yêu anhbeee</title>
+<script>
+    //Thay phần kịch bản bằng kịch bản của bạn
+    var kichban = [
+        ['Anh oiiii, pe mún nói với anh mới chuyện','Pe nói đi'],
+        ['Pe mún hỏi anh là là:..','Đừng ngại, pe cứ nói đi :>']
+    ]
+    //Thay loiToTinh bằng lời tỏ tình của bạn
+    var loiToTinh = 'Anhbeeee có yêu pe honggggg?'
+    //Thay lời xác nhận bằng lời xác nhận của bạn
+    var xacnhan = 'Hehehe pe biết mà pe cũng iuuu anh lắmmm :>';
+    //Tốc độ in chữ ra
+    var tocDo = 50;
+    //Khi chọn Không thì sẽ thông báo ra:
+    var khiChonKhong = 'Đừng ngoan cố thế chọn nút kia đi!'
+    //Link ảnh chèn vào web
+    var linkImg = "C:\Users\HP\OneDrive\画像\Ảnh chụp màn hình\Screenshot 2024-10-20 193848.png"
+</script>
